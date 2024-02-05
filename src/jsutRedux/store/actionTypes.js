@@ -1,0 +1,7 @@
+export const ADD_VOITURE = 'ADD_VOITURE';
+export const DELETE_VOITURE = 'DELETE_VOITURE';
+export const UPDATE_VOITURE = 'UPDATE_VOITURE';
+
+export const FETCH_REQUEST = 'FETCH_REQUEST';
+export const FETCH_SUCCESS = 'FETCH_SUCCESS';
+export const FETCH_FAILURE = 'FETCH_FAILURE';

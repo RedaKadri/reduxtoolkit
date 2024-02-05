@@ -1,0 +1,22 @@
+{
+	"voitures": [
+		{
+			"Matricule": 1234,
+			"Marque": "Renault",
+			"Modele": " Clio",
+			"Couleur": "Noir"
+		},
+		{
+			"Matricule": 5674,
+			"Marque": "Dacia",
+			"Modele": " Logan",
+			"Couleur": "Blue"
+		},
+		{
+			"Matricule": 4539,
+			"Marque": "Peugeot",
+			"Modele": " 208",
+			"Couleur": "Rouge"
+		}
+	]
+}
